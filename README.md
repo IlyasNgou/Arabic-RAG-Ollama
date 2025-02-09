@@ -78,4 +78,6 @@ To use the Ollama 3 model, you need to install it locally. Follow these steps:
    * The app is designed to handle Arabic text, but it can be extended to support other languages.
    * For large documents, processing and embedding may take some time.
 
+     
+
 Enjoy using the Arabic PDF Semantic Search + AI Answers app! If you have any questions or feedback, feel free to open an issue or contribute to the project.
