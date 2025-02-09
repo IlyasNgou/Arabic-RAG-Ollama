@@ -63,7 +63,7 @@ To use the Ollama 3 model, you need to install it locally. Follow these steps:
 ## Running the project
 1. Start the Streamlit app:
    ```bash
-  streamlit run app.py
+    streamlit run app.py
    ```
 2. Open your browser and navigate to the URL provided in the terminal
 
